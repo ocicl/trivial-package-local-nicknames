@@ -1,0 +1,9 @@
+* trivial-package-local-nicknames
+
+Common Lisp PLN compatibility library.
+
+|---------+-----------------------------------------------------------------|
+| source  | git:https://github.com/phoe/trivial-package-local-nicknames.git |
+| commit  | 8a4d09c                                                         |
+| systems | trivial-package-local-nicknames                                 |
+|---------+-----------------------------------------------------------------|

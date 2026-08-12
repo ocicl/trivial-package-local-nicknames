@@ -7,4 +7,4 @@ Common Lisp PLN compatibility library.
 | commit  | 8a4d09c                                                         |
 | systems | trivial-package-local-nicknames                                 |
 |---------+-----------------------------------------------------------------|
- 
+  
